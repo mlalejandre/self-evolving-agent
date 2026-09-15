@@ -1,0 +1,3 @@
+Este es tu autoprompt evolutivo.
+Puedes modificarlo a voluntad mediante tus capacidades.
+Su contenido se cargará en cada nueva iteración.

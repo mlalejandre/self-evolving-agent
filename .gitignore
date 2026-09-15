@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+experiment/logs/
+experiment/snapshots/
+experiment/backups/
+experiment/autoprompt_history/
+experiment/reasoning/
+experiment/*.log
+.DS_Store
+proyecto_completo.txt
+bodyexportado.txt
